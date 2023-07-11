@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T06:16:42.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0" etag="3tlvRoca4SzSguszPzYx" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T06:20:11.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0" etag="eq7Nni8O98nc22TssPI_" version="21.6.1" type="github">
   <diagram name="Página-1" id="U3H5CGSlpID2gLB_l7jA">
     <mxGraphModel dx="2677" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="3" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -157,7 +157,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kz16VKC7-zQH3saANkaT-495" value="Projeto BargaWorks&lt;br&gt;Aluno: Victor Ramos Dos Santos&lt;br&gt;RU: 4059940" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#17295e;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-587" y="910" width="200" height="60" as="geometry" />
+          <mxGeometry x="-530" y="955" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kz16VKC7-zQH3saANkaT-496" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-597" y="618.75" width="770" height="442.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
